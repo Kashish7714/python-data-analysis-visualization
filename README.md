@@ -7,7 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Daily hands-on practice notebooks from the CampusX Data Science Mentorship Program (DSMP), building core data analysis and visualization skills with NumPy, Pandas, Matplotlib, and Seaborn — one session at a time.
+Daily hands-on practice notebooks from the CampusX Data Science Mentorship Program (DSMP), building core data analysis and visualization skills with NumPy, Pandas, Matplotlib, and Seaborn — one session at a time. 
 
 ## About
 
